@@ -1,10 +1,8 @@
-Got it! Here's a cool README for your GitHub repo without including the actual code files:
-
----
-
 # Rock Paper Scissors Lizard Spock
 
 Welcome to the **Rock Paper Scissors Lizard Spock** game! This is an upgraded version of the classic Rock Paper Scissors game, with additional choices and a fun twist. Originally forked from a super cool project on Twitter, this version includes new features and enhancements that make the game even more exciting.
+
+<img style="align:center;border-radius:13px;" src="FIUAIWEI7Q0TCUT.jpg"/>
 
 ## Features
 
@@ -70,6 +68,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for checking out the **Rock Paper Scissors Lizard Spock** game! We hope you enjoy playing it as much as we enjoyed creating it. If you have any questions or need further assistance, feel free to open an issue on GitHub. Happy gaming!
-It's Rock, Paper, Scissors, Lizard, Spock.  Rules -> <a href="https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/">Game Rules</a>
 
-<img style="align:center;border-radius:13px;" src="FIUAIWEI7Q0TCUT.jpg"/>
+It's Rock, Paper, Scissors, Lizard, Spock.  Rules -> <a href="https://www.instructables.com/How-to-Play-Rock-Paper-Scissors-Lizard-Spock/">Game Rules</a>
