@@ -1,5 +1,7 @@
 # Rock Paper Scissors Lizard Spock
 
+Play here --> (https://rock-paper-scissor-lizard-spock-game-ten.vercel.app/)
+
 Welcome to the **Rock Paper Scissors Lizard Spock** game! This is an upgraded version of the classic Rock Paper Scissors game, with additional choices and a fun twist. Originally forked from a super cool project on Twitter, this version includes new features and enhancements that make the game even more exciting.
 
 <img style="align:center;border-radius:13px;" src="FIUAIWEI7Q0TCUT.jpg"/>
